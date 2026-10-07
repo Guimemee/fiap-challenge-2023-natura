@@ -1,0 +1,8 @@
+FIAP • Engenharia da Computação
+Projeto Cooperativo: Natura Innovation Challenge (Bioeconomia & IoT)
+Parceiro: Natura Innovation Challenge
+Turma 2ECB • Ano 2023
+Sprint 04: Sprint 4: Plataforma Digital de Rastreabilidade e Dashboard Executivo ESG
+
+ENUNCIADO E ESPECIFICAÇÃO TÉCNICA:
+Conceber e publicar a plataforma web e mobile de rastreabilidade ponta a ponta com autenticação de cooperativas, visualização geoespacial das safras amazônicas em mapas vetoriais e emissão de certificados digitais de sustentabilidade (Créditos de Biodiversidade) com verificação pública via QR Code.

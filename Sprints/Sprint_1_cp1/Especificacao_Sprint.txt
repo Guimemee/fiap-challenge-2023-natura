@@ -1,0 +1,8 @@
+FIAP • Engenharia da Computação
+Projeto Cooperativo: Natura Innovation Challenge (Bioeconomia & IoT)
+Parceiro: Natura Innovation Challenge
+Turma 2ECB • Ano 2023
+Sprint 01: Sprint 1: Diagnóstico da Cadeia de Valor e Modelagem de Requisitos ESG
+
+ENUNCIADO E ESPECIFICAÇÃO TÉCNICA:
+Mapear a cadeia de suprimentos de extração sustentável da castanha-do-brasil e manteiga de ucuúba junto às comunidades ribeirinhas no Médio Juruá (AM). Estruturar a modelagem de requisitos funcionais e não-funcionais para um sistema IoT de rastreamento de lotes garantindo transparência de ponta a ponta e precificação justa baseada em carbono evitado.

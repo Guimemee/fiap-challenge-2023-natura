@@ -1,0 +1,8 @@
+FIAP • Engenharia da Computação
+Projeto Cooperativo: Natura Innovation Challenge (Bioeconomia & IoT)
+Parceiro: Natura Innovation Challenge
+Turma 2ECB • Ano 2023
+Sprint 03: Sprint 3: Machine Learning e Visão Computacional para Estimativa de Biomassa
+
+ENUNCIADO E ESPECIFICAÇÃO TÉCNICA:
+Desenvolver um modelo de aprendizado de máquina supervisionado (Random Forest Regressor) combinando índices espectrais de vegetação (NDVI, EVI) derivados de imagens de satélite Sentinel-2 com dados de telemetria de solo coletados em campo para predição da biomassa florestal e produtividade de castanhais nativos. Avaliar o coeficiente de determinação R² e erro RMSE.
